@@ -1,6 +1,6 @@
 # MedicineTimeTask
 
-一个轻量化的安卓用药提醒 App MVP，当前已完成阶段 1 的工程骨架：
+一个轻量化的安卓用药提醒 App：
 
 - Kotlin + Jetpack Compose 页面
 - Room 本地存储
@@ -54,7 +54,6 @@ macOS / Linux / Git Bash:
 ## 当前已知事项
 
 - 这个仓库已经补上 `Gradle Wrapper`
-- 如果首次执行 `./gradlew` 失败，优先检查磁盘剩余空间是否充足
 - Android 13+ 需要手动授予通知权限
 - 不同国产 ROM 对精确提醒和后台限制较多，真机需要再做稳定性验证
 
